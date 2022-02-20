@@ -1,8 +1,8 @@
 <div align="center">
   
-# AmpereJeans
+# AmpereQuiz
 
-### Your one stop place to buy best quality jeans
+### Your one stop place to have some fun with our quiz
 
 ![Forks](https://img.shields.io/github/forks/FarhanMobashir/ampereQuiz)
 ![Stars](https://img.shields.io/github/stars/FarhanMobashir/ampereQuiz)
